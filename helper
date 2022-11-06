@@ -24,6 +24,8 @@ git checkout master // permet de revenir a la version principale
 
 git clone lien du repository // pour cloner un projet github
 
+git push -u origin master //pour mettre en ligne
+
 pour mettre le site en ligne on cree un repository ensuite on le clone ,puis on ajoute no fichier ensuite on fait add->commit->push
 
 
