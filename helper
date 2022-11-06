@@ -26,6 +26,10 @@ git clone lien du repository // pour cloner un projet github
 
 git push -u origin master //pour mettre en ligne
 
+git pull// permet de recuperé les modification effectué sur un nouveaux projet
+
 pour mettre le site en ligne on cree un repository ensuite on le clone ,puis on ajoute no fichier ensuite on fait add->commit->push
+
+l'orsqu'on fait un push la branche main presant dans .git du dossier courant qui est modifier en ligne 
 
 
