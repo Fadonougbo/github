@@ -1,0 +1,29 @@
+cd change directory pour naviguer dans les dossier
+
+mkdir creaction de dossier
+
+ls  list des element d'un dossier
+
+
+cd .. permet de revenire en arriere
+
+git init pour initialiser un project
+
+git add .  // enregistre le fichier , il faut le faire achaque modification
+
+git status // montre si no fichier sont commit ,et affiche les michier qui on ete modifié
+
+git commit -m "message etc"  // pour fair un commit
+
+git log // affiche tous les commit
+
+git log -n2 //recupere par exemple les deux derniers commit
+
+git checkout hash de la version // permet de revenir a un version anterieur
+git checkout master // permet de revenir a la version principale
+
+git clone lien du repository // pour cloner un projet github
+
+pour mettre le site en ligne on cree un repository ensuite on le clone ,puis on ajoute no fichier ensuite on fait add->commit->push
+
+
