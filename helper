@@ -1,3 +1,8 @@
+
+SHOW DATABASES;
+USE sqlcours; 
+SHOW TABLES;
+
 cd change directory pour naviguer dans les dossier
 
 mkdir creaction de dossier
