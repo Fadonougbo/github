@@ -1,5 +1,0 @@
-configuration de mail et du user name
-git config --globale user.name "nom"
-git config --globale user.email "email"
-
-
