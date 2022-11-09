@@ -1,2 +1,2 @@
 # mon projet
-## ajouter un .gitignore
+## nouvelle version du projet avec un fichier .gitignore
